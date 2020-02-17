@@ -1,14 +1,10 @@
 <?php
+
+namespace fize\provider\seo\statistics\handler;
+
 /**
- * Created by PhpStorm.
- * User: cfz87
- * Date: 2018-12-23
- * Time: 1:36
+ * 百度
  */
-
-namespace fize\seo\statistics\handler;
-
-
 class BaiDu
 {
 

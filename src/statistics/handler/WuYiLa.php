@@ -1,8 +1,10 @@
 <?php
 
-namespace fize\seo\statistics\handler;
+namespace fize\provider\seo\statistics\handler;
 
-
+/**
+ * 51LA
+ */
 class WuYiLa
 {
 
