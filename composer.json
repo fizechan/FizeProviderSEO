@@ -1,22 +1,22 @@
 {
-  "name": "fize/provider-seo",
-  "description": "SEO优化库",
-  "license": "MIT",
   "authors": [
     {
       "name": "FizeChan",
       "email": "chenfengzhan@qq.com"
     }
   ],
-  "require": {
-    "php": ">=5.4.0"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "^8.0.0"
-  },
   "autoload": {
     "psr-4": {
       "fize\\provider\\seo\\": "src"
     }
+  },
+  "description": "SEO优化库",
+  "license": "MIT",
+  "name": "fize/provider-seo",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~9.2.6"
   }
 }
